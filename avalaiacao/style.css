@@ -1,0 +1,192 @@
+
+header{
+    font-family: 'Anton', sans-serif;
+    
+    color: white;
+    font-size:20px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+body{
+    background-image: url("/img/Background.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:100%;
+   
+}
+
+#div1{
+    display: inline;
+    width:fit-content;
+    height: fit-content;
+    text-align: center;
+}
+
+#bt1{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: bolder;
+    background-color: #F9EF23;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    margin-bottom: 10%;
+    padding: 15px;
+    
+}
+
+#bt1:hover{
+    color: white;
+}
+
+#p1{
+    font-family: 'Anton', sans-serif;
+    font-style: italic;
+    color: white;
+    font-size:90px;
+    display: block;
+    /* margin-left: 33%;
+    margin-right: 33%%; */
+    margin-top: 10%;
+    
+}
+#p2{
+    margin-top: 10%;
+}
+
+
+#div2{
+    font-family: 'Anton', sans-serif;
+    color: white;
+    margin-top: 20%;
+    height: 500px;
+    background-color: #141414;
+    display: flex;
+
+}
+
+#divtexto{
+ 
+    color: #F9EF23;
+    font-size: 60px;
+    font-style: italic;
+    background-color: #141414;
+    height: 300px;
+    padding-top: 100px;
+    margin-left: 15%;
+    width: 30%;
+}
+
+#p3{
+    font-family: 'Hanken Grotesk', sans-serif;
+    margin-top: 10px;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 130%;
+    color: white;
+    
+}
+#p4{
+    font-family: 'Hanken Grotesk', sans-serif;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    color: white;
+
+    
+    
+}
+
+#alink  { 
+    color: white;
+ }
+
+ #alink:hover{
+    color: #F9EF23;
+ }
+
+
+
+
+#divfotos{
+    color: rgb(255, 255, 255);
+    background-color: #141414;
+    height: 300px;
+    padding-top: 1%;
+    width: 70%;
+    margin-right: 10%;
+    display: flex;
+    
+
+
+    /* padding-top: 100px; */
+    /* margin-left: 10%; */
+
+}
+
+#divfoto1{
+    background-image: url("/img/Destaque\ 1.jpg");
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 300px;
+    margin: 5%;
+    margin-left: 15%;
+ 
+    
+}
+
+#divfoto2{
+    background-image: url("/img/Destaque\ 2.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    width: 300px;
+    margin: 10%;
+ 
+}
+
+/* #img1{
+    width: auto;
+    height: 100%;
+    margin: 5%;
+ 
+}
+
+#img2{
+    width: auto;
+    height: 100%;
+    margin: 5%;
+ 
+    
+} */
+
+footer{
+   
+    background-color: #F9EF23;
+    height: 150px;
+    width: 100%;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 20px;
+    display: flex;
+
+   
+}
+.divfoot{
+    font-family: 'Anton', sans-serif;
+    color: black;
+    font-size: 30px;
+    width: auto;
+    margin-top: 2%;
+    margin-left: 16%;
+    font-style: italic;
+}
+
+.pfoot{
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: black;
+    font-size: 15px;
+    width: 200px;
+    margin-top:5%;
+    margin-left: 16%;
+    font-style: normal;
+
+}
